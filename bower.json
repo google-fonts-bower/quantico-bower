@@ -1,0 +1,17 @@
+{
+    "name": "quantico-googlefont",
+    "license": "OFL",
+    "authors": [
+        "MADType"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/quantico-bower.git"
+    },
+    "description": "Quantico font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
